@@ -1,4 +1,1 @@
-The brain tumor detection project using Convolutional Neural Networks (CNNs) aims to develop an automated system for accurately identifying brain tumors in MRI images.
-This project is motivated by the need for efficient and reliable methods in medical imaging analysis, particularly in diagnosing brain disorders.
-In this project, we utilize Python programming language along with TensorFlow and Keras libraries to build and train a CNN model.
-Through this project, we aim to showcase the potential of CNNs in medical imaging applications and contribute to the development of innovative solutions for improving healthcare outcomes.
+The brain tumor detection project uses Convolutional Neural Networks (CNNs) to automatically identify brain tumors in MRI images. The goal is to create an accurate and reliable system to help doctors diagnose brain disorders more easily. We use Python along with TensorFlow and Keras to build and train the CNN model. This project shows how CNNs can be used in medical imaging to improve healthcare and make diagnoses faster and more effective.
