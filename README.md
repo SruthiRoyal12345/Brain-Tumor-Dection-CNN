@@ -40,16 +40,16 @@ How to Run
 
     Clone the repository:
 
-git clone https://github.com/SruthiRoyal12345/Brain-Tumor-Detection.git
-cd Brain-Tumor-Detection
+    git clone https://github.com/SruthiRoyal12345/Brain-Tumor-Detection.git
+    cd Brain-Tumor-Detection
 
 Install dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Train the model:
 
-python train_model.py
+    python train_model.py
 
 Test the model:
 
